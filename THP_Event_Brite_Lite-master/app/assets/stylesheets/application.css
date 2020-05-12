@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: url("https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?cs=srgb&dl=audience-concert-danser-en-direct-1105666.jpg&fm=jpg");
+  background-size: cover;
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 500px;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+}
+
+.container-event {
+  text-align: center;
+}
